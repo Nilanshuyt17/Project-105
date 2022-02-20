@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(#1b7fcc, #b1cc1b);
+}
+.heading {
+    width: 80%;
+    font-size: 40px;
+    font-family: 'Festive', cursive;
+    border-radius: 10px;
+}
+.bold_first {
+    color: #d60b0b;
+    font-size: 30px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+#camera, #result {
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+}
